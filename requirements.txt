@@ -1,4 +1,4 @@
-django
+django<1.9
 django-suit
 apscheduler
 twython
